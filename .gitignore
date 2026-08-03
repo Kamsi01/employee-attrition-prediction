@@ -1,0 +1,16 @@
+# System Files
+.DS_Score
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+.env/
+env/
